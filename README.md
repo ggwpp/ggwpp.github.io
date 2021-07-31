@@ -7,14 +7,14 @@ Unexpected event may happen and take Kubernetes down. We can mitigate this kind 
 Technologies used: `Google Cloud Platform: GKE, GCS`,`Velero`
 
 ### Update and improve cicd process on Google Kubernetes Engine
-To be able to shift the ideal to market faster improving cicd process is one of the answer.
+To be able to shift the ideal to market faster. Improving cicd process is one of the answer.
 
 Technologies used: `Google Cloud Platform: GKE,Cloud build`
 
 ### Automate databases backup
-Automate database backup with 4 different types of database.
+Automate database backup with 4 different types of database. Allow us to be able to go back in time when something bad happen on database.
 
-Technologies used: `postgreSQL`, `MySQL`, `MongoDB`, `CockroachDB`, `ShellScript`, `k8s`, `helm-chart`
+Technologies used: `PostgreSQL`, `MySQL`, `MongoDB`, `CockroachDB`, `ShellScript`, `k8s`, `helm-chart`
 
 ### CDN solution on AWS and GCP
 Provided solution on how to set up CDN on both AWS and GCP cloud.
