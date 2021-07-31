@@ -1,6 +1,8 @@
 ## Devops Engineer: ggwpp
 A ordinary devops who enjoys builing high availability and scalability infrastructure.
 
+### Experience
+
 ### Backup Kubernetes cluster
 Unexpected event may happen and take Kubernetes down. We can mitigate this kind of event by having an backup of Kubernetes which allow us spin up new Kubernetes cluster with same configuration as before.
 
@@ -25,3 +27,12 @@ Technologies used: `AWS`, `GCP`
 Provisioning, deployment and maintaince applications which provides real-time population data in Bangkok. [Link to site](https://crowdcheck.info)
 
 Technologies used: `GCP`, `docker`, `shellscript`
+
+### Technical Skills
+  - **Cloud Platforms**: Amazon Web Services, Google Cloud Platform
+  - **Continaer technology**: Docker, Kubernetes
+  - **Monitoring Tools**: Grafana, Prometheus, Datadog
+  - **Devops Tools**: Jenkins, Buildkite, Terraform, Helm-Chart, Flux, shell script, go
+
+### Certifications
+  - AWS Certified Solutions Architect - Associate
