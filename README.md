@@ -24,7 +24,9 @@ Provided solution on how to set up CDN on both AWS and GCP cloud.
 Technologies used: `AWS`, `GCP`
 
 ### Crowdcheck
-Provisioning, deployment and maintaince applications which provides real-time population data in Bangkok. [Link to site](https://crowdcheck.info)
+Provisioning, deployment and maintaince applications which provides real-time population data in Bangkok.
+[Link to site](https://crowdcheck.info)
+[Uptime staus](https://stats.uptimerobot.com/WBDKBijBjL)
 
 Technologies used: `GCP`, `docker`, `shellscript`
 
