@@ -28,7 +28,7 @@ Provisioning, deployment and maintaince applications which provides real-time po
 
 [Link to site](https://crowdcheck.info)
 
-[Uptime staus](https://stats.uptimerobot.com/WBDKBijBjL)
+[Uptime status](https://stats.uptimerobot.com/WBDKBijBjL)
 
 Technologies used: `GCP`, `docker`, `shellscript`
 
@@ -40,3 +40,4 @@ Technologies used: `GCP`, `docker`, `shellscript`
 
 ### Certifications
   - AWS Certified Solutions Architect - Associate
+  - AWS Certified Solutions Architect - Professional
