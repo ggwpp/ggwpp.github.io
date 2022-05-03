@@ -1,5 +1,5 @@
 ## Devops Engineer: ggwpp
-A ordinary devops who enjoys builing high availability and scalability infrastructure.
+A ordinary devops who enjoys building high availability and scalability infrastructure.
 
 ### Experience
 
