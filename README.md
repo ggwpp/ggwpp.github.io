@@ -4,7 +4,7 @@ A ordinary devops who enjoys building high availability and scalability infrastr
 ### Experience
 
 ### Backup Kubernetes cluster
-Unexpected event may happen and take Kubernetes down. We can mitigate this kind of event by having an backup of Kubernetes which allow us spin up new Kubernetes cluster with same configuration as before.
+Unexpected events may happen and take Kubernetes down. We can mitigate this kind of event by having an backup of Kubernetes which allow us spin up new Kubernetes cluster with same configuration as before.
 
 Technologies used: `Google Cloud Platform: GKE, GCS`,`Velero`
 
@@ -40,4 +40,5 @@ Technologies used: `GCP`, `docker`, `shellscript`
 
 ### Certifications
   - AWS Certified Solutions Architect - Associate
-  - AWS Certified Solutions Architect - Professional
+  - [AWS Certified Solutions Architect - Professional](https://www.credly.com/badges/1ce8e6f5-5ca8-4b91-bcaf-eaf65b7cd2cb/public_url)
+  - [CKA: Certified Kubernetes Administrator](https://www.credly.com/badges/9f4e9a28-9060-4260-8b8a-8291689f7b7c/public_url)
